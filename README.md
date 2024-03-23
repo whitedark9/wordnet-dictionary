@@ -4,6 +4,8 @@ English-English Dictionary with definition, part of speech, examples, synonyms. 
 
 Total of 147306 words are included.
 
+If you want only database in JSON format, visit [github repository](https://github.com/whitedark9/wordnet-dictionary).
+
 ## Installation
 
 ```shell

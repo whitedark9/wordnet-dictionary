@@ -13,7 +13,8 @@
     "thesaurus"
   ],
   "repository": {
-    "url": "https://github.com/whitedark9/wordnet-dictionary.git"
+    "url": "https://github.com/whitedark9/wordnet-dictionary.git",
+    "type": "git"
   },
   "author": "whitedark",
   "license": "MIT"
