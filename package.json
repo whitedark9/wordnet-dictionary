@@ -1,0 +1,20 @@
+{
+  "name": "wordnet-dictionary",
+  "version": "0.0.1",
+  "description": "An english dictionary that uses wordnet database, and return json format",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "wordnet",
+    "dictionary",
+    "thesaurus"
+  ],
+  "repository": {
+    "url": "https://github.com/whitedark9/wordnet-dictionary.git"
+  },
+  "author": "whitedark",
+  "license": "MIT"
+}
