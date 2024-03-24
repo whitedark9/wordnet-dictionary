@@ -1,6 +1,6 @@
 {
-  "name": "wordnet-dictionary",
-  "version": "0.0.1",
+  "name": "@whitedark/wordnet-dictionary",
+  "version": "0.0.2",
   "description": "An english dictionary that uses wordnet database, and return json format",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

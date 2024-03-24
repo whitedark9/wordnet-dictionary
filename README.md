@@ -9,7 +9,7 @@ If you want only database in JSON format, visit [github repository](https://gith
 ## Installation
 
 ```shell
-npm install wordnet-dictionary
+npm install @whitedark/wordnet-dictionary
 ```
 
 ## Usage
