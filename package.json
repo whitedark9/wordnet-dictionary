@@ -1,10 +1,11 @@
 {
   "name": "@whitedark/wordnet-dictionary",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An english dictionary that uses wordnet database, and return json format",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "watch": "tsc -w -p .",
     "build": "tsc"
   },
   "keywords": [
@@ -17,5 +18,8 @@
     "type": "git"
   },
   "author": "whitedark",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  }
 }
